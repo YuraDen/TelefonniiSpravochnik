@@ -200,6 +200,7 @@ namespace TelefonniiSpravochnik
             textBox8.Text = "";
             textBox7.Text = "";
             textBox6.Text = "";
+            MessageBox.Show("Абонент добавлен","Проводка выполнена успешно!");
         }
 
         private void button8_Click(object sender, EventArgs e)
